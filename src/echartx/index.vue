@@ -105,7 +105,7 @@ type ExtendedEchartsInstance = {
 }
 
 defineOptions({
-    name: 'BEchartx',
+    name: 'echartx',
 })
 
 const props = defineProps(echartxProps)
