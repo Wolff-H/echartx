@@ -76,7 +76,7 @@
 <script lang="ts" setup>
 import { computed, nextTick, onMounted, ref, watch } from "vue"
 import handledResizable from 'handled-resizable'
-import { debounce } from 'lodash-unified'
+import { debounce } from 'lodash'
 
 
 import {

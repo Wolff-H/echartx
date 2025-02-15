@@ -38,7 +38,7 @@ dayjs.locale('zh-cn', {
 import * as echarts from 'echarts'
 import { initialize as initializeEchartx } from './echartx'
 
-initializeEchartx({ echarts, options: { resizable: false } })
+initializeEchartx({ echarts })
 
 const app = createApp(Playground)
 
