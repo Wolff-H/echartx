@@ -1,5 +1,5 @@
 {
-  "name": "echartx",
+  "name": "@wolff-h/echartx",
   "version": "1.0.0",
   "type": "module",
   "main": "./dist/echartx.umd.js",
